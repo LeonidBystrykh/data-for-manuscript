@@ -1,2 +1,2 @@
-# Leonid_Biology_Python
-mostly python scripts by biologist for biologists
+# supplementary material for the manuscript in press
+files and scripts 
