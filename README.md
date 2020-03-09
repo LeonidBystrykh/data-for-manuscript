@@ -1,2 +1,2 @@
-# supplementary material for the manuscript in press
-files and scripts 
+# This is reanalysed set of data filtered by significance
+use it to analyse frequencies of genes and other stuff
