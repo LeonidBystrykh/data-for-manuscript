@@ -1,4 +1,4 @@
-# Supplementary data for the manuscript in press, currently submitted to Nature Cell Biology 
+# Supplementary data for the manuscript in press, currently submitted to Blood
 
 A comprehensive transcriptome signature of murine hematopoietic stem cell aging
 
