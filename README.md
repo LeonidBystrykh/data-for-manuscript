@@ -6,4 +6,7 @@ Arthur Flohr Svendsen1, Daozheng Yang1, KyungMok Kim2, Seka Lazare1, Erik Zwart1
 
 Mostly python scripts by biologist for biologists
 
-Details in the branches
+Details are in the branches
+
+Branch scripts contain scripts for jupyter or colab (.ipynb format)
+There are three branches with source files: meta (for differential expression data as reported by authors), rean (for reanalysed by us data), 
