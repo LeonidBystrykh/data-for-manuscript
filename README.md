@@ -2,7 +2,10 @@
 
 A comprehensive transcriptome signature of murine hematopoietic stem cell aging
 
-Arthur Flohr Svendsen<sup>1</sup>, Daozheng Yang1, KyungMok Kim2, Seka Lazare1, Erik Zwart1, Anna Mura-Meszaro2, Albertina Ausema1, Björn von Eijss2, Gerald de Haan1,3*, Leonid V. Bystrykh1,3*
+Arthur Flohr Svendsen<sup>1</sup>, Daozheng Yang<sup>1</sup>, KyungMok Kim<sup>2</sup>, Seka Lazare<sup>1</sup>, Erik Zwart<sup>1</sup>, Anna Mura-Meszaro<sup>2</sup>, Albertina Ausema<sup>1</sup>, Björn von Eijss<sup>2</sup>, Gerald de Haan<sup>1</sup>, Leonid V. Bystrykh<sup>1</sup> (l.bystrykh@umcg.nl) 
+
+<sup>1</sup>European Research Institute for the Biology of Ageing, University Medical Center Groningen, University of Groningen, Antonius Deusinglaan 1, 9713 AV, Groningen, The Netherlands. <br>
+<sup>2</sup>Transcriptional Control of Tissue Homeostasis Lab, Leibniz Institute on Aging, Fritz Lipmann Institute e.V., Beutenbergstr. 11,07745 Jena, Germany
 
 Mostly python scripts by biologist for biologists
 
