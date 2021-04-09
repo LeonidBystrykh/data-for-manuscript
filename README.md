@@ -1,6 +1,6 @@
-# Supplementary data for the manuscript in press, currently accepted in Blood
+<B>Supplementary data for the manuscript in press, currently accepted in Blood</B>
 
-A comprehensive transcriptome signature of murine hematopoietic stem cell aging
+<h1>A comprehensive transcriptome signature of murine hematopoietic stem cell aging</h1>
 
 Arthur Flohr Svendsen<sup>1</sup>, Daozheng Yang<sup>1</sup>, KyungMok Kim<sup>2</sup>, Seka Lazare<sup>1</sup>, Erik Zwart<sup>1</sup>, Anna Mura-Meszaro<sup>2</sup>, Albertina Ausema<sup>1</sup>, Björn von Eijss<sup>2</sup>, Gerald de Haan<sup>1</sup>, Leonid V. Bystrykh<sup>1</sup> (l.bystrykh@umcg.nl) 
 
