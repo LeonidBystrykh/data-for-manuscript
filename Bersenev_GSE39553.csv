@@ -1,5 +1,5 @@
 reanalysed					
-tT[, 1]	IDs	logFC	adj.P.Val	ENTREZ_GENE_ID	Description
+IDs Gene.symbol	logFC	adj.P.Val	ENTREZ_GENE_ID	Description
 17750_at	Mt2	5.0010008487	8.5025537713561e-05	17750	metallothionein 2
 18828_at	Plscr2	3.5091365035	3.32130939006877e-05	18828	phospholipid scramblase 2
 20344_at	Selp	3.2736876585	0.0002836486	20344	selectin, platelet
