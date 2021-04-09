@@ -13,3 +13,5 @@ Details are in the branches
 
 Branch scripts contain scripts for jupyter or colab (.ipynb format)
 There are three branches with source files: meta (for differential expression data as reported by authors), rean (for reanalysed by us data) , AS_lists (lists of differentially expressed genes from the aging signature per publication).
+
+<B> Note, these scripts are functional offline, they were written years ago and need update. I will try to make it more in style of colab with direct access to the source files online. It needs some time to make it. </B> 
