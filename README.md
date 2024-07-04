@@ -1,4 +1,4 @@
-<B>Supplementary data for the manuscript in press, currently accepted in Blood</B>
+<B>Supplementary data for the manuscript published in Blood, 2021</B>
 
 <h1>A comprehensive transcriptome signature of murine hematopoietic stem cell aging</h1>
 
